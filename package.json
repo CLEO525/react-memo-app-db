@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.3.4",
+    "lowdb": "^1.0.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.2"
+  }
+}
